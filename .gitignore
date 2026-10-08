@@ -1,0 +1,14 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Maven
+target/
+
+# Logs e arquivos de sistema
+*.log
+.DS_Store
+
+# H2 database (se gerar arquivo físico)
+*.db
